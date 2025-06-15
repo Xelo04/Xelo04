@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/Background Image.png" alt="Mindful Media" width="100%"></p>
+<p align="center"><img src="assets/BackgroundImage.png" alt="Background" width="100%"></p>
 <h3 align="center">
   I’m a frontend developer specializing in creating modern and functional user interfaces. I have a strong foundation in HTML, CSS, and JavaScript, and I work with React on a daily basis. What sets me apart is my attention to detail and a mindset focused not just on aesthetics, but above all on quality and reliability.
 </h3>
