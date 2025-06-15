@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Aleksander Wanot - Frontend Developer</h1>
+<p align="center"><img src="assets/Background Image.png" alt="Mindful Media" width="100%"></p>
 <h3 align="center">
   I’m a frontend developer specializing in creating modern and functional user interfaces. I have a strong foundation in HTML, CSS, and JavaScript, and I work with React on a daily basis. What sets me apart is my attention to detail and a mindset focused not just on aesthetics, but above all on quality and reliability.
 </h3>
@@ -32,9 +32,9 @@
 
 <h1 align="center">Currently Working On</h1>
   <h3 align="center">Mindful Media</h3> 
+  <p align="center"><img src="assets/MindfulMedia.png" alt="Mindful Media" width="90%"></p>
   <p align="center">Mindful media is platform focused on promoting positive experiences with the social medias.</p>
   <p align="center">Built with React, TypeScript and SCSS.</p>
-  
   <a href="https://github.com/Xelo04/Mindful-Media" target="_blank" >
     <p align="center">🔗 View Project on GitHub </p>
   </a>
