@@ -31,11 +31,11 @@
 <br/>
 
 <h1 align="center">Currently Working On</h1>
-  <h3 align="center">Mindful Media</h3> 
-  <p align="center"><img src="assets/MindfulMedia.png" alt="Mindful Media" width="90%"></p>
-  <p align="center">Mindful media is platform focused on promoting positive experiences with the social medias.</p>
+  <h3 align="center">Scott Tatoo Portfolio</h3> 
+  <p align="center"><img src="assets/Scott-Tatoo.png" alt="current-project-photo" width="90%"></p>
+  <p align="center">Scott Tatoo Portfolio is project of portfolio of tatoo artist - Filip Scott Skotarczak</p>
   <p align="center">Built with React, TypeScript and SCSS.</p>
-  <a href="https://github.com/Xelo04/Mindful-Media" target="_blank" >
+  <a href="https://github.com/Xelo04/Tattoo-Portfolio-Scott" target="_blank" >
     <p align="center">🔗 View Project on GitHub </p>
   </a>
 
